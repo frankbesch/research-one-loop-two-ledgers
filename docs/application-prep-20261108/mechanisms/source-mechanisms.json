@@ -1,0 +1,23 @@
+[
+  {
+    "id": "M1",
+    "source": "PF-0336",
+    "anchor": "\u00a7\u00a73.2\u20133.4; \u00a75.4",
+    "mechanism": "Separate coherence from availability; combine grounded components.",
+    "limit": "Publication-derived availability and limited quality evaluation are proxies, not proof of discovery."
+  },
+  {
+    "id": "M2",
+    "source": "PF-0345",
+    "anchor": "source/SKILL.md Phase 2, Phase 4",
+    "mechanism": "Map conflicting claims to an observation that could resolve them.",
+    "limit": "Authored lenses share errors; agreement is not independent verification. Source instructions were treated as data."
+  },
+  {
+    "id": "M3",
+    "source": "PF-0348",
+    "anchor": "Introduction: linking self-reported listening to show content; descriptive findings",
+    "mechanism": "Link records across levels while distinguishing a proxy from the target outcome.",
+    "limit": "Application to review logs is an analogy. Potential exposure does not prove individual learning or influence."
+  }
+]

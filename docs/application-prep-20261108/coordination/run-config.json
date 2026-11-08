@@ -1,0 +1,11 @@
+{
+  "status": "NOT_RUN",
+  "model_version": null,
+  "runtime": null,
+  "tools": null,
+  "total_token_cap_per_condition": null,
+  "wall_seconds_cap": null,
+  "monetary_cap": null,
+  "repetitions": 1,
+  "authorized_live_run": false
+}

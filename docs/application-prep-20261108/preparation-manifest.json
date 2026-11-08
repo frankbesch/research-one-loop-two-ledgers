@@ -1,0 +1,23 @@
+{
+  "status": "PREPARATION_FREEZE_ONLY",
+  "date": "2026-11-08",
+  "note": "Re-freeze completed configuration before live trials. No human trial results exist.",
+  "sha256": {
+    "README.md": "bc76ffdc90ea8146e4ce3c802cc0d90093f3fc0690e829bb8ab19a68b96c9f83",
+    "coordination/answer-key.json": "8a3199534ca11d6553a5a7ba6dc260d20dbb388bf19f3054059a565eecce8f3e",
+    "coordination/cases.json": "258b0047f02cb11a851f5e1457d772cc46a427c67d1cf5911ea6b42d78b94352",
+    "coordination/prompts.md": "1c8d182da892f02bbbd0379e642585c87d5b6bb9752e91483c91ebafff84d9c3",
+    "coordination/protocol.md": "ee9bab186b556f299b8f9ba75981a2dabfed4c9d54f8627e6aa60467c646d1f2",
+    "coordination/results.json": "704c571c21c9ccef2b01658d6345e670b0c076ff36e107d375e88a8847d22596",
+    "coordination/run-config.json": "015d48f089eaaa4915bd443ed98feded28fb836fcf278fa37c15470f4a291685",
+    "mechanisms/blind-cards.json": "466d945e0a30b8e0ba0407473e9e04e1e799feaf91805994c6bc79e339557119",
+    "mechanisms/candidates.json": "10b1043f26f947302467eefc813ddae40bcdd9d69aa2292f55fd1c06d696e2de",
+    "mechanisms/contradictions.md": "61ab263bf9fb0433f59abd0e1f36abb697177646a711922d82ef3c4d1ed6580e",
+    "mechanisms/facilitator-map.json": "5c011a794d10c1acd7f6589301eb500abb831314ca4c32c4e12fcfa0c2889db4",
+    "mechanisms/protocol.md": "a80ef50a3aaa885d32cd70837d0d2380ef82325d4385f81fcc9f9b14436f40ab",
+    "mechanisms/ratings.json": "7b08be9d7eba8fba0cd35fdf70d8bd1a89da97260ec70a020fa88d6e7e8a13c8",
+    "mechanisms/source-mechanisms.json": "431a19e68be59f41be6be85a59bba2aef717bd95b73b6ad0e76c74a9ff66982e",
+    "sources.json": "bb0faf0994608c07756cc3043a90877919c06f2fccd175fcf7a8340b8c57dc76",
+    "validate.py": "9f03fb6890f2ad2790b471559f07f3ae04d7af64119385bc265ca3b7759ffdf3"
+  }
+}

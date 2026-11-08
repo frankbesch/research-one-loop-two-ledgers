@@ -1,0 +1,314 @@
+[
+  {
+    "id": "O1",
+    "arm": "ordinary",
+    "title": "Checklist before acceptance",
+    "proposal": "Use a short acceptance checklist so omissions are visible.",
+    "mechanisms": [
+      "M2"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0345",
+        "anchor": "source/SKILL.md Phase 2, Phase 4"
+      }
+    ],
+    "feasible_observation": "Inspect ten fictional outputs with planted missing fields.",
+    "rival_explanation": "More attention rather than the checklist explains errors found.",
+    "falsifier": "No fewer missed fields at equal review time.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "O2",
+    "arm": "ordinary",
+    "title": "Evidence beside each claim",
+    "proposal": "Place the evidence location beside the claim to reduce lookup time.",
+    "mechanisms": [
+      "M3"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0348",
+        "anchor": "Introduction: linking self-reported listening to show content; descriptive findings"
+      }
+    ],
+    "feasible_observation": "Compare lookup seconds and wrong citations on matched fictional reports.",
+    "rival_explanation": "Shorter reports explain speed.",
+    "falsifier": "Time savings disappear with matched length or errors increase.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "O3",
+    "arm": "ordinary",
+    "title": "Review only changed material",
+    "proposal": "Display the delta and retain a path to the full source.",
+    "mechanisms": [
+      "M3"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0348",
+        "anchor": "Introduction: linking self-reported listening to show content; descriptive findings"
+      }
+    ],
+    "feasible_observation": "Plant a context-dependent error outside the visible delta.",
+    "rival_explanation": "Reviewer familiarity explains speed.",
+    "falsifier": "Context errors rise despite lower review time.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "O4",
+    "arm": "ordinary",
+    "title": "Stop ambiguous cases",
+    "proposal": "Route missing evidence to a reviewer instead of guessing.",
+    "mechanisms": [
+      "M2"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0345",
+        "anchor": "source/SKILL.md Phase 2, Phase 4"
+      }
+    ],
+    "feasible_observation": "Use a fixed packet with ambiguous and clear cases.",
+    "rival_explanation": "Increased abstention simply transfers all work.",
+    "falsifier": "Total review time rises without fewer escaped errors.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "O5",
+    "arm": "ordinary",
+    "title": "Group repeated failures",
+    "proposal": "Group duplicate error signatures while retaining unique task counts.",
+    "mechanisms": [
+      "M1"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0336",
+        "anchor": "\u00a7\u00a73.2\u20133.4; \u00a75.4"
+      }
+    ],
+    "feasible_observation": "Seed repeated events and distinct errors with similar labels.",
+    "rival_explanation": "Coarse grouping hides real differences.",
+    "falsifier": "A distinct failure is suppressed or denominator changes.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "O6",
+    "arm": "ordinary",
+    "title": "Sample completed work",
+    "proposal": "Audit a fixed sample of apparently accepted outcomes.",
+    "mechanisms": [
+      "M3"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0348",
+        "anchor": "Introduction: linking self-reported listening to show content; descriptive findings"
+      }
+    ],
+    "feasible_observation": "Plant a known distribution of failures and report missed failures.",
+    "rival_explanation": "Observed success reflects a benign sample.",
+    "falsifier": "An unreviewed critical failure escapes; no all-safe inference permitted.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "R1",
+    "arm": "recombination",
+    "title": "Disagreement-triggered evidence audit",
+    "proposal": "Combine diverse failure hypotheses, contradiction mapping, and task-level evidence joins.",
+    "mechanisms": [
+      "M1",
+      "M2",
+      "M3"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0336",
+        "anchor": "\u00a7\u00a73.2\u20133.4; \u00a75.4"
+      },
+      {
+        "source": "PF-0345",
+        "anchor": "source/SKILL.md Phase 2, Phase 4"
+      },
+      {
+        "source": "PF-0348",
+        "anchor": "Introduction: linking self-reported listening to show content; descriptive findings"
+      }
+    ],
+    "feasible_observation": "Compare targeted checks against O1 on the same planted errors.",
+    "rival_explanation": "Extra reviewer time, not targeting, explains improvement.",
+    "falsifier": "No extra critical errors found at equal total time.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "R2",
+    "arm": "recombination",
+    "title": "Counterexample receipt",
+    "proposal": "For each accepted claim, attach a rival mechanism and the observation that would refute it.",
+    "mechanisms": [
+      "M1",
+      "M2",
+      "M3"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0336",
+        "anchor": "\u00a7\u00a73.2\u20133.4; \u00a75.4"
+      },
+      {
+        "source": "PF-0345",
+        "anchor": "source/SKILL.md Phase 2, Phase 4"
+      },
+      {
+        "source": "PF-0348",
+        "anchor": "Introduction: linking self-reported listening to show content; descriptive findings"
+      }
+    ],
+    "feasible_observation": "Review six fictional accepted claims including misleading transport successes.",
+    "rival_explanation": "Longer receipts merely induce caution.",
+    "falsifier": "Review time rises with no fewer false acceptances.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "R3",
+    "arm": "recombination",
+    "title": "Coverage-aware handoff",
+    "proposal": "Carry missing-evidence flags through a novel division of work, then reconcile conflicting task states.",
+    "mechanisms": [
+      "M1",
+      "M2",
+      "M3"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0336",
+        "anchor": "\u00a7\u00a73.2\u20133.4; \u00a75.4"
+      },
+      {
+        "source": "PF-0345",
+        "anchor": "source/SKILL.md Phase 2, Phase 4"
+      },
+      {
+        "source": "PF-0348",
+        "anchor": "Introduction: linking self-reported listening to show content; descriptive findings"
+      }
+    ],
+    "feasible_observation": "Drop one outcome from a paired-worker handoff.",
+    "rival_explanation": "A basic required-field check performs equally well.",
+    "falsifier": "Unknown outcome is silently accepted or no benefit versus simple validation.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "R4",
+    "arm": "recombination",
+    "title": "Proxy challenge panel",
+    "proposal": "For each speed metric, pair an alternate mechanism with an outcome-level countercheck.",
+    "mechanisms": [
+      "M1",
+      "M2",
+      "M3"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0336",
+        "anchor": "\u00a7\u00a73.2\u20133.4; \u00a75.4"
+      },
+      {
+        "source": "PF-0345",
+        "anchor": "source/SKILL.md Phase 2, Phase 4"
+      },
+      {
+        "source": "PF-0348",
+        "anchor": "Introduction: linking self-reported listening to show content; descriptive findings"
+      }
+    ],
+    "feasible_observation": "Construct lower-token cases with higher reviewer effort.",
+    "rival_explanation": "Reviewer-rate assumptions drive the conclusion.",
+    "falsifier": "Recommendation reverses under plausible rates without a stated boundary.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "R5",
+    "arm": "recombination",
+    "title": "Diverse failure replay",
+    "proposal": "Select different failure mechanisms, reconcile opposing explanations, and link each replay to task outcomes.",
+    "mechanisms": [
+      "M1",
+      "M2",
+      "M3"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0336",
+        "anchor": "\u00a7\u00a73.2\u20133.4; \u00a75.4"
+      },
+      {
+        "source": "PF-0345",
+        "anchor": "source/SKILL.md Phase 2, Phase 4"
+      },
+      {
+        "source": "PF-0348",
+        "anchor": "Introduction: linking self-reported listening to show content; descriptive findings"
+      }
+    ],
+    "feasible_observation": "Compare a six-case diverse set with six near-duplicate cases.",
+    "rival_explanation": "Difficulty rather than diversity causes the difference.",
+    "falsifier": "No additional failure class detected after matching difficulty.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  },
+  {
+    "id": "R6",
+    "arm": "recombination",
+    "title": "Stop-rule contradiction register",
+    "proposal": "Combine uncommon stop scenarios, explicit contradictory claims, and observable acceptance events.",
+    "mechanisms": [
+      "M1",
+      "M2",
+      "M3"
+    ],
+    "source_anchors": [
+      {
+        "source": "PF-0336",
+        "anchor": "\u00a7\u00a73.2\u20133.4; \u00a75.4"
+      },
+      {
+        "source": "PF-0345",
+        "anchor": "source/SKILL.md Phase 2, Phase 4"
+      },
+      {
+        "source": "PF-0348",
+        "anchor": "Introduction: linking self-reported listening to show content; descriptive findings"
+      }
+    ],
+    "feasible_observation": "Seed stale evidence, duplicate attempts, and reviewer rejection.",
+    "rival_explanation": "The register restates an existing contract.",
+    "falsifier": "No decision changes beyond the existing outcome contract.",
+    "status": "PREPARATION_EXAMPLE",
+    "evidence_grade": "HYPOTHESIS",
+    "overlap_check": "Not an originality claim; source-derived components retained."
+  }
+]

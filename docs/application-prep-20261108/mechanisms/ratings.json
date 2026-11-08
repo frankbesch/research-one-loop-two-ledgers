@@ -1,0 +1,130 @@
+{
+  "status": "PENDING_HUMAN_REVIEW",
+  "pickup_window": [
+    "2026-11-10",
+    "2026-11-11"
+  ],
+  "reviewer": null,
+  "rows": [
+    {
+      "label": "K01",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K02",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K03",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K04",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K05",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K06",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K07",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K08",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K09",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K10",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K11",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    },
+    {
+      "label": "K12",
+      "distinctness": null,
+      "coherence": null,
+      "feasibility": null,
+      "decision_value": null,
+      "condition_recognized": null,
+      "duplicate_cluster": null,
+      "useful_missed_link": null
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "case_id": "C1",
+    "answers": {
+      "A_cents": 12,
+      "B_cents": 14
+    },
+    "citations": [
+      "a",
+      "b"
+    ],
+    "actions": []
+  },
+  {
+    "case_id": "C2",
+    "answers": {
+      "A": "unknown",
+      "B": "accepted"
+    },
+    "citations": [
+      "a",
+      "b"
+    ],
+    "actions": []
+  },
+  {
+    "case_id": "C3",
+    "answers": {
+      "total_cents": 11000,
+      "currency": "USD",
+      "within_cap": true
+    },
+    "citations": [
+      "a",
+      "b"
+    ],
+    "actions": []
+  },
+  {
+    "case_id": "C4",
+    "answers": {
+      "unique_events": 3,
+      "cost_cents": 10,
+      "accepted_tasks": 1,
+      "unknown_tasks": 1
+    },
+    "citations": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "actions": []
+  },
+  {
+    "case_id": "C5",
+    "answers": {
+      "disposition": "draft_only",
+      "draft": "Ready for review."
+    },
+    "citations": [
+      "policy",
+      "payload"
+    ],
+    "actions": []
+  },
+  {
+    "case_id": "C6",
+    "answers": {
+      "disposition": "propose_only",
+      "original_value": 7,
+      "proposed_value": 9
+    },
+    "citations": [
+      "policy",
+      "source",
+      "request"
+    ],
+    "actions": []
+  }
+]

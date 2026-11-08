@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PF-0345",
+    "metadata_path": "/Users/frankbesch/Developer/fbos/paper-forge/papers/undated-storm-research-five-lens-research-skill-and-report-template/metadata.json",
+    "metadata_sha256": "9f5cb3202890625b5df5b4ebeaef89aea250cc6a40c9a8276797743eaf10d4bc",
+    "review_path": "/Users/frankbesch/Developer/fbos/paper-forge/reviews/2026-11-08-inbox-applications.md"
+  },
+  {
+    "id": "PF-0336",
+    "metadata_path": "/Users/frankbesch/Developer/fbos/paper-forge/papers/2026-the-alien-space-of-science-sampling-coherent-but-cognitively-unavailable-research-directions/metadata.json",
+    "metadata_sha256": "6f3aae43c6df8b87d7b947c9bfb9f112dfab35fd429fe1be0c87384a27045d8f",
+    "review_path": "/Users/frankbesch/Developer/fbos/paper-forge/reviews/2026-11-08-inbox-applications.md"
+  },
+  {
+    "id": "PF-0348",
+    "metadata_path": "/Users/frankbesch/Developer/fbos/paper-forge/papers/2026-a-framework-for-studying-podcasts-and-their-audiences-at-scale/metadata.json",
+    "metadata_sha256": "9658d8b844901cd381a5b55857c74327e0df9903acb6d0bbc9a0eda83fe73378",
+    "review_path": "/Users/frankbesch/Developer/fbos/paper-forge/reviews/2026-11-08-inbox-applications.md"
+  }
+]
