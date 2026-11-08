@@ -1,0 +1,3 @@
+# GitHub language stats (linguist). The synthetic ledgers' source documents are
+# rendered HTML fixtures; they outweighed the Python code, so the repo showed HTML.
+synth-*/**/*.html linguist-generated=true
